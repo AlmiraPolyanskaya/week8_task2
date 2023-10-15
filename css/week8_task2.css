@@ -10,5 +10,9 @@ body {
 }
 
 footer {
-	margin: 50px 0;
+    width: 100vw;
+    height: 70px;
+    line-height: 70px; /* Vertically center the text there */
+    background-color:  #333;
+	color: #777;
 }
